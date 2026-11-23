@@ -1,0 +1,21 @@
+{
+  "Language": 0,
+  "SmoothCursor": true,
+  "ConfirmDangerous": true,
+  "RestorePointDefault": true,
+  "SuspendPreset": [
+    "balanced"
+  ],
+  "CustomSuspendNames": [],
+  "FirstRunCompleted": false,
+  "StartWithWindows": false,
+  "TrayIcon": true,
+  "MinimizeToTray": true,
+  "AutoCleanEnabled": false,
+  "AutoCleanThreshold": 85,
+  "AutoCleanIntervalMinutes": 30,
+  "LastAutoCleanUtc": "2026-11-23T14:48:26.2545856Z",
+  "CheckUpdatesOnStart": true,
+  "LastUpdateCheckUtc": "2026-11-23T14:48:16.831994Z",
+  "SkippedVersion": null
+}
